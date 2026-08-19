@@ -46,3 +46,12 @@ The agent extracts:
 - Due date
 
 The results are returned as JSON and saved in the `Example Outputs` format.
+
+## How It Works
+
+Meeting transcript (.txt)
+→ Qwen2.5-3B-Instruct
+→ Meeting summary + decisions + action items
+→ Structured JSON output
+
+The results are returned as JSON and saved in the `Outputs` folder.
