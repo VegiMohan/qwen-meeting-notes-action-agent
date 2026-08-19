@@ -1,0 +1,33 @@
+{
+  "summary": "The meeting discussed the progress on the mobile application release plan. Rahul fixed the password reset bug and tested the login and password reset features. Priya prepared the release notes and was tasked with creating tickets for critical bugs found during testing. The release was postponed until testing is complete.",
+  "decisions": [
+    "The release of the mobile application will be postponed until testing is complete."
+  ],
+  "action_items": [
+    {
+      "task": "Fix the password reset bug",
+      "owner": "Rahul",
+      "due_date": "Not specified"
+    },
+    {
+      "task": "Test the login and password reset features",
+      "owner": "Priya",
+      "due_date": "Not specified"
+    },
+    {
+      "task": "Prepare the release notes",
+      "owner": "Ananya",
+      "due_date": "Friday"
+    },
+    {
+      "task": "Create tickets for critical bugs found during testing",
+      "owner": "Priya",
+      "due_date": "Not specified"
+    },
+    {
+      "task": "Address any critical bugs reported after Priya finishes testing",
+      "owner": "Rahul",
+      "due_date": "After Priya finishes testing"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "summary": "The marketing team discussed and assigned tasks for the upcoming launch campaign. Ananya prepared Instagram and LinkedIn posts by Wednesday, Rahul created the email campaign and sent the first draft to Ananya by Thursday, Priya prepared the campaign performance tracking spreadsheet by Friday, and all materials were due by Friday for a final review.",
+  "decisions": [
+    "Campaign materials to be ready by Friday",
+    "Campaign launch scheduled for next Monday"
+  ],
+  "action_items": [
+    {
+      "task": "Prepare Instagram and LinkedIn campaign posts",
+      "owner": "Ananya",
+      "due_date": "Wednesday"
+    },
+    {
+      "task": "Create email campaign and send first draft to Ananya",
+      "owner": "Rahul",
+      "due_date": "Thursday"
+    },
+    {
+      "task": "Review and suggest changes to the email draft",
+      "owner": "Ananya",
+      "due_date": "Not specified"
+    },
+    {
+      "task": "Prepare campaign performance tracking spreadsheet",
+      "owner": "Priya",
+      "due_date": "Friday"
+    },
+    {
+      "task": "Coordinate with the design team for additional graphics if needed",
+      "owner": "Rahul",
+      "due_date": "Not specified"
+    }
+  ]
+}

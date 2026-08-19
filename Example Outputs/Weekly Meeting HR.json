@@ -1,0 +1,28 @@
+{
+  "summary": "The team discussed and assigned tasks related to the employee onboarding process and the employee handbook. Priya will update the new employee onboarding checklist by Thursday. Rahul will review the checklist after it is completed. Ananya will work on updating the employee handbook this week. Rahul will schedule a review meeting with HR after the checklist is finalized.",
+  "decisions": [
+    "Agreed to use the updated onboarding process for all new employees."
+  ],
+  "action_items": [
+    {
+      "task": "Update the new employee onboarding checklist",
+      "owner": "Priya",
+      "due_date": "Thursday"
+    },
+    {
+      "task": "Review the updated onboarding checklist",
+      "owner": "Rahul",
+      "due_date": "Not specified"
+    },
+    {
+      "task": "Work on updating the employee handbook",
+      "owner": "Ananya",
+      "due_date": "This week"
+    },
+    {
+      "task": "Schedule a review meeting with HR after the checklist is finalized",
+      "owner": "Rahul",
+      "due_date": "Not specified"
+    }
+  ]
+}

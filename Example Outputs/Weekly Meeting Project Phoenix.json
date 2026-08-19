@@ -1,0 +1,33 @@
+{
+  "summary": "The meeting covered progress on Project Phoenix, with Rahul completing backend APIs, Priya finishing dashboard design, and Ananya preparing presentation slides. The team agreed to run a full integration test on Friday and ensure all UI issues are addressed.",
+  "decisions": [
+    "Agree to run a full integration test on Friday after the dashboard is connected."
+  ],
+  "action_items": [
+    {
+      "task": "Prepare the presentation slides for the client meeting",
+      "owner": "Ananya",
+      "due_date": "Friday"
+    },
+    {
+      "task": "Send the final presentation slides to the manager by Friday afternoon",
+      "owner": "Ananya",
+      "due_date": "Friday afternoon"
+    },
+    {
+      "task": "Contact the IT team to get the production database credentials",
+      "owner": "Manager",
+      "due_date": "Today"
+    },
+    {
+      "task": "Run the integration test on Friday after the dashboard is connected",
+      "owner": "Rahul",
+      "due_date": "Friday"
+    },
+    {
+      "task": "Fix any UI issues found during testing",
+      "owner": "Priya",
+      "due_date": "Before Monday"
+    }
+  ]
+}
